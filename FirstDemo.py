@@ -33,3 +33,11 @@ print(values)
 values[2] = "RAHUL" #updating
 del values[0]
 print(values)
+
+# tuple - same as list data type but immutable
+
+val = [1,2, "rahul", 4.5]
+print(val[1])
+
+val[2] = "RAHUL"
+print(val)

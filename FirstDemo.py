@@ -8,3 +8,6 @@ str = "Hello world"
 print(str)
 
 b,c,d = 5,6.4, "Great"
+
+str = "Hello world"
+print(str)

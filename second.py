@@ -11,3 +11,13 @@ print(val)
 dic = {"a":2, 4:"bcd","c":"Hello world"}
 print (dic[4])
 print(dic["c"])
+
+#
+dict = {}
+dict["firstname"] = "Rahul"
+
+dict["lastname"] = "shetty"
+dict["gender"] = "Male"
+
+print(dict)
+print(dict["lastname"])
